@@ -3,3 +3,4 @@ c:\users\malionde\documents\visual studio 2015\Projects\Exercises\DecompressRLEl
 c:\users\malionde\documents\visual studio 2015\Projects\Exercises\DecompressRLElist\bin\Debug\DecompressRLElist.pdb
 c:\users\malionde\documents\visual studio 2015\Projects\Exercises\DecompressRLElist\obj\Debug\DecompressRLElist.exe
 c:\users\malionde\documents\visual studio 2015\Projects\Exercises\DecompressRLElist\obj\Debug\DecompressRLElist.pdb
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\DecompressRLElist\obj\Debug\DecompressRLElist.csprojResolveAssemblyReference.cache

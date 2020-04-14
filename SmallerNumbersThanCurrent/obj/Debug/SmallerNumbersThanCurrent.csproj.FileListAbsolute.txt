@@ -1,0 +1,5 @@
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\SmallerNumbersThanCurrent\bin\Debug\SmallerNumbersThanCurrent.exe.config
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\SmallerNumbersThanCurrent\bin\Debug\SmallerNumbersThanCurrent.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\SmallerNumbersThanCurrent\bin\Debug\SmallerNumbersThanCurrent.pdb
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\SmallerNumbersThanCurrent\obj\Debug\SmallerNumbersThanCurrent.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\SmallerNumbersThanCurrent\obj\Debug\SmallerNumbersThanCurrent.pdb

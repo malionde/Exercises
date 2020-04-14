@@ -10,9 +10,9 @@ namespace DecompressRLElist
     {
         static void Main(string[] args)
         {
-            var numbers = new List<int>() { 1, 2, 3, 4 };
+            int[] numbers = { 1, 2, 3, 4 };
 
-            Console.WriteLine(numbers);
+            Console.WriteLine(DecompressRLElist(numbers));
             Console.ReadLine();
         }
         public static int[] DecompressRLElist(int[] nums)
