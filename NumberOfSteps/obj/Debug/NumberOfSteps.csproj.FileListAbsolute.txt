@@ -1,0 +1,5 @@
+c:\users\malionde\documents\visual studio 2015\Projects\Exercises\NumberOfSteps\bin\Debug\NumberOfSteps.exe.config
+c:\users\malionde\documents\visual studio 2015\Projects\Exercises\NumberOfSteps\bin\Debug\NumberOfSteps.exe
+c:\users\malionde\documents\visual studio 2015\Projects\Exercises\NumberOfSteps\bin\Debug\NumberOfSteps.pdb
+c:\users\malionde\documents\visual studio 2015\Projects\Exercises\NumberOfSteps\obj\Debug\NumberOfSteps.exe
+c:\users\malionde\documents\visual studio 2015\Projects\Exercises\NumberOfSteps\obj\Debug\NumberOfSteps.pdb
