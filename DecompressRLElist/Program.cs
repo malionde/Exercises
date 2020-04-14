@@ -11,8 +11,10 @@ namespace DecompressRLElist
         static void Main(string[] args)
         {
             int[] numbers = { 1, 2, 3, 4 };
+            int[] result = DecompressRLElist(numbers);
+            string ids = String.Join(",", result.Select(p => p.ToString()).ToArray());
 
-            Console.WriteLine(DecompressRLElist(numbers));
+            Console.WriteLine(ids);
             Console.ReadLine();
         }
         public static int[] DecompressRLElist(int[] nums)
