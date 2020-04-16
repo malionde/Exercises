@@ -1,0 +1,6 @@
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\CreateTargetArray\bin\Debug\CreateTargetArray.exe.config
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\CreateTargetArray\bin\Debug\CreateTargetArray.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\CreateTargetArray\bin\Debug\CreateTargetArray.pdb
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\CreateTargetArray\obj\Debug\CreateTargetArray.csprojResolveAssemblyReference.cache
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\CreateTargetArray\obj\Debug\CreateTargetArray.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\CreateTargetArray\obj\Debug\CreateTargetArray.pdb
