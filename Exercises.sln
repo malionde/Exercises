@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindEvenNumbers", "FindEven
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallerNumbersThanCurrent", "SmallerNumbersThanCurrent\SmallerNumbersThanCurrent.csproj", "{75FFC871-EF50-429F-85AB-E7F8348EA276}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedStringSplit", "BalancedStringSplit\BalancedStringSplit.csproj", "{4EB74AF1-707B-495D-843B-17DDB1EB8E05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{75FFC871-EF50-429F-85AB-E7F8348EA276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75FFC871-EF50-429F-85AB-E7F8348EA276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75FFC871-EF50-429F-85AB-E7F8348EA276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB74AF1-707B-495D-843B-17DDB1EB8E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB74AF1-707B-495D-843B-17DDB1EB8E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB74AF1-707B-495D-843B-17DDB1EB8E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB74AF1-707B-495D-843B-17DDB1EB8E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
