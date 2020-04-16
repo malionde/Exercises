@@ -18,4 +18,4 @@ Daily exercises in C#
 [-->LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
 [1221. Split a String in Balanced Strings - ](https://github.com/malionde/Exercises/blob/master/BalancedStringSplit/Program.cs)
-[★LeetCode★](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+[-->LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
