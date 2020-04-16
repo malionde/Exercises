@@ -1,4 +1,4 @@
-# Exercises
+﻿# Exercises
 Daily exercises in C#
 
 ### EASY PROBLEM SOLUTIONS
@@ -16,3 +16,6 @@ Daily exercises in C#
 
 [1365. How Many Numbers Are Smaller Than the Current Number - ](https://github.com/malionde/Exercises/blob/master/SmallerNumbersThanCurrent/Program.cs)
 [-->LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+[1221. Split a String in Balanced Strings - ](https://github.com/malionde/Exercises/blob/master/BalancedStringSplit/Program.cs)
+[★LeetCode★](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
