@@ -1,0 +1,5 @@
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\GetDecimalValue\bin\Debug\GetDecimalValue.exe.config
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\GetDecimalValue\bin\Debug\GetDecimalValue.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\GetDecimalValue\bin\Debug\GetDecimalValue.pdb
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\GetDecimalValue\obj\Debug\GetDecimalValue.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\GetDecimalValue\obj\Debug\GetDecimalValue.pdb
