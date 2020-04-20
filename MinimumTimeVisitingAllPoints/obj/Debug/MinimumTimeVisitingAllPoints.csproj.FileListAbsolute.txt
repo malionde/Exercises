@@ -1,0 +1,6 @@
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\MinimumTimeVisitingAllPoints\bin\Debug\MinimumTimeVisitingAllPoints.exe.config
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\MinimumTimeVisitingAllPoints\bin\Debug\MinimumTimeVisitingAllPoints.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\MinimumTimeVisitingAllPoints\bin\Debug\MinimumTimeVisitingAllPoints.pdb
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\MinimumTimeVisitingAllPoints\obj\Debug\MinimumTimeVisitingAllPoints.csprojResolveAssemblyReference.cache
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\MinimumTimeVisitingAllPoints\obj\Debug\MinimumTimeVisitingAllPoints.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\MinimumTimeVisitingAllPoints\obj\Debug\MinimumTimeVisitingAllPoints.pdb
