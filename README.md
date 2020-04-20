@@ -8,6 +8,9 @@ Daily exercises in C#
 [1221. Split a String in Balanced Strings](https://github.com/malionde/Exercises/blob/master/BalancedStringSplit/Program.cs)
 [-->LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 
+[1290. Convert Binary Number in a Linked List to Integer](https://github.com/malionde/Exercises/blob/master/GetDecimalValue/Program.cs)
+[-->LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+
 [1295. Find Numbers with Even Number of Digits](https://github.com/malionde/Exercises/blob/master/FindEvenNumbers/Program.cs)
 [-->LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 
