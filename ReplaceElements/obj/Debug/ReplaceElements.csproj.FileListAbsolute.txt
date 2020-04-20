@@ -1,0 +1,5 @@
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ReplaceElements\bin\Debug\ReplaceElements.exe.config
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ReplaceElements\bin\Debug\ReplaceElements.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ReplaceElements\bin\Debug\ReplaceElements.pdb
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ReplaceElements\obj\Debug\ReplaceElements.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ReplaceElements\obj\Debug\ReplaceElements.pdb

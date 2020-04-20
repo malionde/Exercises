@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTargetArray", "Create
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetDecimalValue", "GetDecimalValue\GetDecimalValue.csproj", "{DB579160-908E-4549-A570-F7508F0BBF5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToLowerCase", "ToLowerCase\ToLowerCase.csproj", "{CEAE0713-EEA7-477F-89CC-3395F8B09868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceElements", "ReplaceElements\ReplaceElements.csproj", "{3CA4404C-F753-4B7F-9397-CFA7ACF74F55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{DB579160-908E-4549-A570-F7508F0BBF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB579160-908E-4549-A570-F7508F0BBF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB579160-908E-4549-A570-F7508F0BBF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAE0713-EEA7-477F-89CC-3395F8B09868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAE0713-EEA7-477F-89CC-3395F8B09868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAE0713-EEA7-477F-89CC-3395F8B09868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAE0713-EEA7-477F-89CC-3395F8B09868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA4404C-F753-4B7F-9397-CFA7ACF74F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA4404C-F753-4B7F-9397-CFA7ACF74F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA4404C-F753-4B7F-9397-CFA7ACF74F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA4404C-F753-4B7F-9397-CFA7ACF74F55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ToLowerCase\bin\Debug\ToLowerCase.exe.config
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ToLowerCase\bin\Debug\ToLowerCase.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ToLowerCase\bin\Debug\ToLowerCase.pdb
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ToLowerCase\obj\Debug\ToLowerCase.csprojResolveAssemblyReference.cache
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ToLowerCase\obj\Debug\ToLowerCase.exe
+C:\Users\malionde\documents\visual studio 2015\Projects\Exercises\ToLowerCase\obj\Debug\ToLowerCase.pdb
